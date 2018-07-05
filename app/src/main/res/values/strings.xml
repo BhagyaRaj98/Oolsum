@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">Oolsum</string>
+    <string name="apply">Apply</string>
+    <string name="filter_online_institutions">Filter Online Institutions</string>
+    <string name="listing_all_hospitals">Listing All Hospitals</string>
+
+    <string name="cost_100">100</string>
+    <string name="average_cost">Average Cost</string>
+    <string name="dietitians_online">Dietitians Online</string>
+    <string name="rating_10">1.0</string>
+    <string name="rating">Rating</string>
+    <string name="specialities">Specialities:</string>
+    <string name="kids_sports">Kids, Sports</string>
+    <string name="location">Location</string>
+    <string name="dietitians_number">1</string>
+
+    <string name="info_name">Institution Name</string>
+    <string name="info_value">Hospital 1</string>
+    <string name="hospital_name">ABC memorial</string>
+    <string name="hospital_details_title">Institution Details</string>
+    <string name="independent_details_title">Specialist Details</string>
+
+    <string name="update">Update</string>
+    <string name="Name">Name</string>
+
+
+    <string name="title_menu">Menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+
+
+    <!-- Login module string resources -->
+    <string name="t_and_c_info">By proceeding, you agree with our</string>
+    <string name="terms_link">Terms of Use</string>
+    <string name="privacy_policy_link">Privacy Policy</string>
+    <string name="faq_link">FAQ\'s</string>
+    <string name="contact_us_link">Contact Us</string>
+    <string name="emailId">Email Id</string>
+    <string name="passwd">Password</string>
+    <string name="forgotPasswd">Forgot Password ?</string>
+    <string name="lbl_btn_back">Back</string>
+    <string name="lbl_btn_login">Way To Good Health</string>
+    <string name="title_activity_home_screen_for_user">HomeScreenForUser</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <!-- Edit Profile string resources -->
+    <string name="Health_Conditions">Choose HealthConditions</string>
+    <string name="dialog_title">List of Health Conditions</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+
+    <string-array name="Health_Conditions">
+        <item>Acne</item>
+        <item>Adult Vaccines</item>
+        <item>AIDS/HIV</item>
+        <item>Allergies</item>
+        <item>Alzheimers</item>
+        <item>Anorexia nervosa</item>
+    </string-array>
+
+
+    <string-array name="Height_arrays">
+        <item>Meter</item>
+        <item>Feet</item>
+        <item>Centimeter</item>
+        <item>Inch</item>
+    </string-array>
+
+    <string-array name="Weight_arrays">
+        <item>Kilogram</item>
+        <item>Pound</item>
+    </string-array>
+
+    <string name="Gender_prompt">Choose Gender</string>
+    <string-array name="Gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+        <item>other</item>
+    </string-array>
+
+    <string name="Marital_prompt">Marital Status</string>
+    <string-array name="Marital_arrays">
+        <item>Single</item>
+        <item>Married</item>
+    </string-array>
+
+    <string name="Food_prompt">Food Culture</string>
+    <string-array name="Food_arrays">
+        <item>Bengali</item>
+        <item>Gujarathi</item>
+        <item>Kashmiri</item>
+        <item>Mughalai</item>
+        <item>Punjabi</item>
+        <item>Rajasthani</item>
+        <item>South Indian</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="Nature_prompt">Nature of Work</string>
+    <string-array name="Nature_arrays">
+        <item>Advertising Agency</item>
+        <item>Banking Institutions</item>
+        <item>Beauty Treatment centers</item>
+        <item>Business Centers</item>
+        <item>Cable/DTH services</item>
+        <item>Catering Services</item>
+        <item>Coaching classes/Training Institutions</item>
+        <item>Commission Agent</item>
+        <item>Construction Agencies</item>
+        <item>Courier Services</item>
+        <item>Educational Institutions</item>
+        <item>Electricity Generation,Transmission</item>
+        <item>Exporter</item>
+        <item>Film/TV serial Production Agency</item>
+        <item>Government</item>
+        <item>Gymkhana,Club or Association</item>
+        <item>Health Clinics/Fitness Centers</item>
+        <item>Hospitals or Nursing Homes</item>
+        <item>House Keeping Services</item>
+        <item>Importer</item>
+        <item>Information Technology Service</item>
+        <item>Insurance Service</item>
+        <item>Mandap/Decoration/Agencies</item>
+        <item>Marketing Services/Agencies</item>
+        <item>Media and event management..</item>
+        <item>Other Financial Institutions</item>
+        <item>Pest Control Services</item>
+        <item>Printing Press/Printing Agencies</item>
+        <item>Reseller(includes Wholesalers)</item>
+        <item>Restaurants/Bars</item>
+        <item>Retailer</item>
+        <item>Security and Detective Agencies</item>
+        <item>Service Centers/Maintenance Centers</item>
+        <item>Telecommunication Services</item>
+        <item>Tour and Travel Services</item>
+        <item>Training and Placement Services</item>
+        <item>Transport,Freight/Cargo Services</item>
+        <item>Vehicle Rental Services</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="Job_prompt">Job Shift</string>
+    <string-array name="Job_arrays">
+        <item>Day Shift</item>
+        <item>Night Shift</item>
+        <item>Shift Basis</item>
+    </string-array>
+
+    <string name="Goal_prompt">Your Goal</string>
+    <string name="medical_conditions">Medical Conditions</string>
+    <string-array name="Goal_arrays">
+        <item>Body/Muscle Building</item>
+        <item>Good Body Shape</item>
+        <item>Hair Growth</item>
+        <item>Healthy and Fit</item>
+        <item>Improve Medical Condition</item>
+        <item>Resistance Power/Immunity</item>
+        <item>Sports</item>
+        <item>Stamina</item>
+        <item>Weight Gain</item>
+        <item>Weight Loss</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="user_name_hint">User Name*</string>
+    <string name="height_hint">Height*</string>
+    <string name="weight_hint">Weight*</string>
+    <string name="date_of_birth_hint">Date Of Birth*</string>
+    <string name="mobile_phone">Mobile Phone</string>
+    <string name="residence_phone">Residence Phone</string>
+    <string name="address_hint">Address</string>
+</resources>

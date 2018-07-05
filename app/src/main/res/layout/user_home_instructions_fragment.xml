@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/ll_general"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_generalinstructions"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@color/gray"
+                    android:gravity="center_vertical"
+                    android:padding="10dp"
+                    android:text="General Instructions"
+                    android:textSize="18dp" />
+
+                <EditText
+                    android:id="@+id/et_generalinstructions"
+                    android:layout_width="match_parent"
+                    android:layout_height="68dp"
+                    android:background="@null"
+                    android:maxLines="15" />
+
+                <TextView
+                    android:id="@+id/tv_foodstoavoid"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@color/gray"
+                    android:gravity="center_vertical"
+                    android:padding="10dp"
+                    android:text="Foods To Avoid"
+                    android:textColor="@color/purple"
+                    android:textSize="18dp" />
+
+                <EditText
+                    android:id="@+id/et_foodstoavoid"
+                    android:layout_width="match_parent"
+                    android:layout_height="68dp"
+                    android:background="@null"
+                    android:maxLines="15" />
+
+                <TextView
+                    android:id="@+id/tv_foodstoconsumeless"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@color/gray"
+                    android:gravity="center_vertical"
+                    android:padding="10dp"
+                    android:text="Foods To Consume Less"
+                    android:textColor="@color/orange"
+                    android:textSize="18dp" />
+
+                <EditText
+                    android:id="@+id/et_foodstoconsumeless"
+                    android:layout_width="match_parent"
+                    android:layout_height="68dp"
+                    android:background="@null"
+                    android:maxLines="15" />
+
+                <TextView
+                    android:id="@+id/tv_fitnessinstructions"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@color/gray"
+                    android:gravity="center_vertical"
+                    android:padding="10dp"
+                    android:text="Fitness Instructions"
+                    android:textColor="@color/blue"
+                    android:textSize="18dp" />
+
+                <EditText
+                    android:id="@+id/et_fitnessinstructions"
+                    android:layout_width="match_parent"
+                    android:layout_height="68dp"
+                    android:background="@null"
+                    android:maxLines="15" />
+
+                <TextView
+                    android:id="@+id/tv_dietarysupplement"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@color/gray"
+                    android:gravity="center_vertical"
+                    android:padding="10dp"
+                    android:text="Dietary Supplement"
+                    android:textColor="@color/darkred"
+                    android:textSize="18dp" />
+
+                <EditText
+                    android:id="@+id/et_dietarysupplement"
+                    android:layout_width="match_parent"
+                    android:layout_height="68dp"
+                    android:background="@null"
+                    android:maxLines="15" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:layout_below="@+id/ll_general"
+                android:background="@color/gray"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <TextView
+                    android:id="@+id/tv_assigned"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Assigned By"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:id="@+id/tv_assignedvalue"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Name"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="18dp" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

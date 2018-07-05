@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv_breakfast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Breakfast"
+        android:textSize="18sp" />
+
+    <RelativeLayout
+        android:id="@+id/rl_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_breakfast"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/iv_time_image"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:src="@drawable/info" />
+
+        <TextView
+            android:id="@+id/tv_start_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/iv_time_image"
+            android:paddingLeft="8dp"
+            android:text="07:00 AM" />
+
+        <TextView
+            android:id="@+id/tv_end_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_start_time"
+            android:layout_toRightOf="@+id/iv_time_image"
+            android:paddingLeft="8dp"
+            android:text="10:00 AM" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_comments"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_time"
+        android:padding="8dp"
+        android:text="Android Studio"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tv_comments"
+        android:layout_margin="8dp"
+        android:background="@color/colorPrimaryDark" />
+</RelativeLayout>

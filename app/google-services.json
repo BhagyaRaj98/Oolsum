@@ -1,0 +1,208 @@
+{
+  "project_info": {
+    "project_number": "988002411828",
+    "firebase_url": "https://oolsum-7df3c.firebaseio.com",
+    "project_id": "oolsum-7df3c",
+    "storage_bucket": "oolsum-7df3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988002411828:android:b9ec18cbf45c1a59",
+        "android_client_info": {
+          "package_name": "com.ionicframework.pageone794790"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988002411828-5hf2dibaslie55qv276qen9b4s1vj0lt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-0gbgj16iimg70hng3sfthafqe0g8q1md.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-5oofe0hg8egcbvb26k5f4sa5uajp8orm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-fnv6jile4ivv8oechf0e0sbhgk8m42l9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-2t23tc2a59uo48jkde72ugrkorktfs1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionicframework.pageone794790",
+            "certificate_hash": "ddf3c2acbf0834f65173ee8b09c52e0390205d5e"
+          }
+        },
+        {
+          "client_id": "988002411828-k40rcshplabcp7i838r9ebrru8dq7mit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionicframework.pageone794790",
+            "certificate_hash": "44ec8501d120c8743c5fb2907536031efbc1cceb"
+          }
+        },
+        {
+          "client_id": "988002411828-qq8jm8ifodqgpkf6grnlmmi70gpvm300.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionicframework.pageone794790",
+            "certificate_hash": "2be69a02f6ffcc3306a2e8f96385774fc5588ef9"
+          }
+        },
+        {
+          "client_id": "988002411828-0ad1juf9ncten2eqjo7r0g7m8ejtnjqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPgTT3W6HN6eZEgNUI_q2j9plmP1D7sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988002411828-5hf2dibaslie55qv276qen9b4s1vj0lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988002411828-9p4l6eop8nfjun4pdp6h296fsobenhr3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oolsum.ios"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988002411828:android:cf5d98da1b93e16f",
+        "android_client_info": {
+          "package_name": "com.example.bhagy.oolsum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988002411828-5hf2dibaslie55qv276qen9b4s1vj0lt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-0gbgj16iimg70hng3sfthafqe0g8q1md.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-5oofe0hg8egcbvb26k5f4sa5uajp8orm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-fnv6jile4ivv8oechf0e0sbhgk8m42l9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-0ad1juf9ncten2eqjo7r0g7m8ejtnjqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPgTT3W6HN6eZEgNUI_q2j9plmP1D7sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988002411828:android:8348e07d7b943e70",
+        "android_client_info": {
+          "package_name": "com.example.bhagy.oolsum.sit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988002411828-g7el2ki5v1n46u727rqqedanuh92am9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhagy.oolsum.sit",
+            "certificate_hash": "2be69a02f6ffcc3306a2e8f96385774fc5588ef9"
+          }
+        },
+        {
+          "client_id": "988002411828-5hf2dibaslie55qv276qen9b4s1vj0lt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-0gbgj16iimg70hng3sfthafqe0g8q1md.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-5oofe0hg8egcbvb26k5f4sa5uajp8orm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-fnv6jile4ivv8oechf0e0sbhgk8m42l9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "988002411828-0ad1juf9ncten2eqjo7r0g7m8ejtnjqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPgTT3W6HN6eZEgNUI_q2j9plmP1D7sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988002411828-5hf2dibaslie55qv276qen9b4s1vj0lt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988002411828-9p4l6eop8nfjun4pdp6h296fsobenhr3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oolsum.ios"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
