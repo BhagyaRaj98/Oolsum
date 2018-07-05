@@ -1,3 +1,3 @@
 # Oolsum
-Oolsum alpha version
-This is an android project I have worked during my intern.
+Oolsum alpha version.
+This is an Android App for online dietitian platform Oolsum.
